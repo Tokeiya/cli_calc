@@ -1,2 +1,2 @@
-# cli_calc
+# cli-calc
 CLI RPN calculator
